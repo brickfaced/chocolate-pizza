@@ -1,0 +1,85 @@
+body {
+	width: 901px;
+	padding: 20px 305px;
+}
+
+header h2 {
+	font-family: 'Yellowtail', cursive;
+}
+
+#logo {
+	margin-right: 10px;
+}
+
+
+header img {
+	float: left;
+	margin-right: 10px;
+}
+
+header ul li {
+	display: inline-block;
+	float: right;
+	margin-left: -9px;
+	margin-top: -23px;
+}
+
+header p {
+	margin-top: -25px;
+}
+
+main h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: -15px;
+}
+
+main #date {
+	font-size: 12px;
+}
+
+main p {
+	text-indent: 25px;
+}
+
+main #print {
+	float: right;
+	margin-top: -20px;
+}
+
+main section {
+	display: inline-block;
+	background-image: url("img/list-bg.png")
+}
+
+leftList {
+	float: left;
+}
+
+main section ul {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	float: right;
+	margin: 50px 95px 36px;
+}
+
+main section ul li {
+	margin: 15px 0px;
+}
+
+footer {
+	/* display: inline-block; */
+}
+
+footer van {
+	margin-top: 0px;
+	float: left;
+}
+
+footer button {
+	float: right;
+}
+
+footer section {
+	align-content: center;
+	text-align: center;
+	margin-top: 100px;
+}
